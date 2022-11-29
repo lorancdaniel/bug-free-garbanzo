@@ -37,3 +37,4 @@ C:\Users\daniel.loranc\source\repos\WpfApp1\bin\Debug\net7.0-windows\ru\Xceed.Wp
 C:\Users\daniel.loranc\source\repos\WpfApp1\bin\Debug\net7.0-windows\sv\Xceed.Wpf.AvalonDock.NET5.resources.dll
 C:\Users\daniel.loranc\source\repos\WpfApp1\bin\Debug\net7.0-windows\zh-Hans\Xceed.Wpf.AvalonDock.NET5.resources.dll
 C:\Users\daniel.loranc\source\repos\WpfApp1\obj\Debug\net7.0-windows\WpfApp1.csproj.CopyComplete
+C:\Users\daniel.loranc\source\repos\WpfApp1\bin\Debug\net7.0-windows\Aspose.SVG.dll

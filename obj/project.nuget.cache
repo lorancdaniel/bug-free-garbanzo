@@ -1,10 +1,19 @@
 {
   "version": 2,
-  "dgSpecHash": "vS0aw8bDN5BmBBaU7JN7UEhLVKGY3T6mR86TuIfoZnqjQB/63GlS8IGdgYvaBbVwcQuaKnhKaIQmRw7IX11hpg==",
+  "dgSpecHash": "pICq+WGA86tkmBvjSWQ3Tejwdrm2FSbR5mEW3wJnnjl8wa/jK2IqdkXg7Fe2YGe0wxPcfhI+1pnqSRGw9p5wbA==",
   "success": true,
   "projectFilePath": "C:\\Users\\daniel.loranc\\source\\repos\\WpfApp1\\WpfApp1.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\daniel.loranc\\.nuget\\packages\\extended.wpf.toolkit\\4.5.0\\extended.wpf.toolkit.4.5.0.nupkg.sha512"
+    "C:\\Users\\daniel.loranc\\.nuget\\packages\\aspose.svg\\22.11.0\\aspose.svg.22.11.0.nupkg.sha512",
+    "C:\\Users\\daniel.loranc\\.nuget\\packages\\extended.wpf.toolkit\\4.5.0\\extended.wpf.toolkit.4.5.0.nupkg.sha512",
+    "C:\\Users\\daniel.loranc\\.nuget\\packages\\microsoft.netcore.platforms\\2.0.0\\microsoft.netcore.platforms.2.0.0.nupkg.sha512",
+    "C:\\Users\\daniel.loranc\\.nuget\\packages\\microsoft.win32.systemevents\\4.5.0\\microsoft.win32.systemevents.4.5.0.nupkg.sha512",
+    "C:\\Users\\daniel.loranc\\.nuget\\packages\\system.drawing.common\\4.5.0\\system.drawing.common.4.5.0.nupkg.sha512",
+    "C:\\Users\\daniel.loranc\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.0\\system.runtime.compilerservices.unsafe.4.5.0.nupkg.sha512",
+    "C:\\Users\\daniel.loranc\\.nuget\\packages\\system.security.accesscontrol\\4.5.0\\system.security.accesscontrol.4.5.0.nupkg.sha512",
+    "C:\\Users\\daniel.loranc\\.nuget\\packages\\system.security.permissions\\4.5.0\\system.security.permissions.4.5.0.nupkg.sha512",
+    "C:\\Users\\daniel.loranc\\.nuget\\packages\\system.security.principal.windows\\4.5.0\\system.security.principal.windows.4.5.0.nupkg.sha512",
+    "C:\\Users\\daniel.loranc\\.nuget\\packages\\system.text.encoding.codepages\\4.5.0\\system.text.encoding.codepages.4.5.0.nupkg.sha512"
   ],
   "logs": []
 }
